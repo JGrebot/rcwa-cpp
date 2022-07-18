@@ -16,7 +16,7 @@ Libraries (fftw3, Eigen3, fmt) are automatically fetched (download and compiled 
 
 ## Apps
 
-#### rcwa-1d
+### rcwa-1d
 
 Rcwa computation on 3 layered structures: Air, 0.25% of Air and 0.75 of Si, Si. 
 You must create a directory named __output__ before running the executable file, ie:
@@ -36,7 +36,7 @@ to get the real part of $E_x$:
 
 
 
-#### rcwa-benchmark
+### rcwa-benchmark
 
 Rcwa computation on several wavelengths, on 3 layered structures: SiO2, 0.20% of SiO2 and 0.75 of Si, Si. 
 You must create a directory named __output__ before running the executable file, ie:
@@ -54,12 +54,12 @@ to see the corresponding reflection and transmission computed.
 
 
 
-#### test-interp
+### test-interp
 
 Just to test our LinearInterpolation class defined in include/LinearInterpolation.h .
 
 
-#### epsilon-fourier
+### epsilon-fourier
 
 2D FFT (on going work). Achieving the 2D Fourier transform is a preliminary step to a 3D RCWA solver.
 No need to launch the epsilon-fourier executable.
