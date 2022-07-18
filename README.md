@@ -31,7 +31,8 @@ python3 py/plot-field.py output/h-field.txt 1
 ```
 to get the real part of $E_x$: 
 
-![real Ex](readme-src/real-Ex.png  =250x)
+<img src="readme-src/real-Ex.png" width="100" height="100">
+
 
 
 
