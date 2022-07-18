@@ -12,7 +12,7 @@ cmake ..
 make
 ```
 
-Libraries (fftw3, Eigen3, fmt) are automatically fetched (download and compiled in the build directory) if not found on your computer.
+Libraries (fftw3, Eigen3, fmt) are automatically fetched (downloaded and compiled in the build directory) if not found on your computer.
 
 ## Apps
 
