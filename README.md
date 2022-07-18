@@ -3,6 +3,12 @@
 ## About rcwa-cpp
 This repo contains a 2d rcwa solver written in cpp.
 
+## Dependencies
+fftw3 >= 3.3.10\
+Eigen > 3.4.0\
+fmt >= 9.0.0\
+cmake >= 3.15\
+cpp >= 17
 
 ## Compiling
 ```console
