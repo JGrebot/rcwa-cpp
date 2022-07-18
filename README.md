@@ -47,7 +47,7 @@ To visualize the output, use:
 ```python
 python3 py/plot-lines.py output/benchmark-result.txt
 ```
-to the corresponding reflection and transmission computed.
+to see the corresponding reflection and transmission computed.
 ![R and T](readme-src/R-and-T-benchmark.png)
 
 
