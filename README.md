@@ -31,7 +31,7 @@ python3 py/plot-field.py output/h-field.txt 1
 ```
 to get the real part of $E_x$: 
 
-![real Ex](readme-src/real-Ex.png)
+![real Ex](readme-src/real-Ex.png  =250x)
 
 
 
@@ -48,7 +48,7 @@ To visualize the output, use:
 python3 py/plot-lines.py output/benchmark-result.txt
 ```
 to see the corresponding reflection and transmission computed.
-![R and T](readme-src/R-and-T-benchmark.png)
+![R and T](readme-src/R-and-T-benchmark.png  =250x)
 
 
 #### test-interp
